@@ -1,1 +1,11 @@
-
+img{
+	width: 50%;
+}
+#input_task{
+	background: khaki;
+	text-align: center;
+}
+#sort_priority{
+	background: azure;
+	text-align: center;
+}
